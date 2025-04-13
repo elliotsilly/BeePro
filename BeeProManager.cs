@@ -25,7 +25,7 @@ namespace BeePro
 			tF.transformToFollow = cam;
 			cinemachineCam.transform.GetChild(0).gameObject.SetActive(false);
 			cinemachineCam.GetComponent<CinemachineBrain>().enabled = false;
-			cinemachineCam.GetComponent<Camera>().fieldOfView = 90f;
+			cinemachineCam.GetComponent<Camera>().fieldOfView = 65f; //Check Github readme. for a picture of the updated FOV
 		}
 
 		private void OnGUI()

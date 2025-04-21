@@ -323,7 +323,7 @@ namespace BeePro
 		private bool canFireGrab;
 		public bool fp = true;
 
-		public bool smoothing = true;
+		public bool smoothing = false;
 		private float smooth = 1f;
 		private float smoothPos = 0.0005f;
 		private float smoothRot = 0.072f;

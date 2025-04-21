@@ -2,6 +2,7 @@
 A bee-themed camera mod for Gorilla Tag.
 *Fixed by iidk*
 *Fork by elliot*
+*@blueplanet15 helped*
 
 Full credits go to [@BzzzThe18th](https://github.com/BzzzThe18th) for initially producing the camera mod; I only fixed it for later versions.
 I will comply if any parties wish this to be taken down.

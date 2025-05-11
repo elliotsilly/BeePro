@@ -1,4 +1,4 @@
-# BeePro
+# BeePro ![all](https://img.shields.io/github/downloads/elliotsilly/BeePro/total)
 A bee-themed camera mod for Gorilla Tag.
 *Fixed by iidk*
 *Fork by elliot*
